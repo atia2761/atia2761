@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/atia2761/atia2761/blob/main/GitHub-banner.jpg)
 ### GREETINGS EVERYONE 👋
 
 <h1 align="center">Hi 👋, I'm Fazila Khan</h1>
