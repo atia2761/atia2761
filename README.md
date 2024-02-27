@@ -1,7 +1,7 @@
 ![logo](https://github.com/atia2761/atia2761/blob/main/GitHub-banner.jpg)
 ### GREETINGS EVERYONE 👋
 
-<h1 align="center">Hi 👋, I'm Fazila Khan</h1>
+<h1 align="center">Hi 👋, I'm Atia Khan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <img align="right" alt="coding girl" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" >
